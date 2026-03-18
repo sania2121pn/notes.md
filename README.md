@@ -5,3 +5,4 @@ onchain experimentation is easier on Base.
 documenting progress publicly is useful.
 builder activity is growing across Base.
 trying to stay consistent with updates.
+testing simple workflows on Base network.
