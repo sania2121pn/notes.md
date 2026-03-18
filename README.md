@@ -3,3 +3,4 @@
 Base ecosystem feels fast and cheap to use.
 onchain experimentation is easier on Base.
 documenting progress publicly is useful.
+builder activity is growing across Base.
