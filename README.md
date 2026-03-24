@@ -6,3 +6,4 @@ documenting progress publicly is useful.
 builder activity is growing across Base.
 trying to stay consistent with updates.
 testing simple workflows on Base network.
+Base ecosystem keeps expanding with new tools.
