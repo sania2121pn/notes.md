@@ -8,3 +8,4 @@ trying to stay consistent with updates.
 testing simple workflows on Base network.
 Base ecosystem keeps expanding with new tools.
 Base makes experimenting onchain very accessible.
+continuing to track ecosystem growth on Base.
