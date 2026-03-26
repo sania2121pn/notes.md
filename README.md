@@ -12,3 +12,4 @@ continuing to track ecosystem growth on Base.
 New note: Base transactions remain consistently fast
 New note: continuing to evaluate ecosystem tools
 Note: Base UX feels smoother compared to other L2s
+Note: low fees allow frequent experimentation
