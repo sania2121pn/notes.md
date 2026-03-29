@@ -15,3 +15,4 @@ Note: Base UX feels smoother compared to other L2s
 Note: low fees allow frequent experimentation
 Base ecosystem growing rapidly with new apps
 frequent usage helps understand real UX
+Base enables fast and cheap experimentation
