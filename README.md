@@ -18,3 +18,4 @@ frequent usage helps understand real UX
 Base enables fast and cheap experimentation
 discovering more tools inside Base ecosystem
 Note: Base makes daily usage simple and fast
+Note: discovering new apps in the ecosystem
